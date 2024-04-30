@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "descripcion": "aceite",
+        "precio": 2.0,
+        "stock": 1000
+    },
+    {
+        "id": 2,
+        "descripcion": "cocacola",
+        "precio": 0.8,
+        "stock": 313
+    },
+    {
+        "id": 3,
+        "descripcion": "lapiz",
+        "precio": 1.0,
+        "stock": "220"
+    },
+    {
+        "id": 4,
+        "descripcion": "telefono",
+        "precio": 900.0,
+        "stock": "350"
+    },
+    {
+        "id": 5,
+        "descripcion": "auriculares",
+        "precio": 50.0,
+        "stock": "230"
+    },
+    {
+        "id": 6,
+        "descripcion": "laptop",
+        "precio": 10000.0,
+        "stock": "243"
+    },
+    {
+        "id": 7,
+        "descripcion": "cargador",
+        "precio": 20.0,
+        "stock": "124"
+    },
+    {
+        "id": 8,
+        "descripcion": "maleta",
+        "precio": 60.0,
+        "stock": 47
+    }
+]
